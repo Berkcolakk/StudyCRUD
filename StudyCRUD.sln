@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyCRUD.UI", "StudyCRUD.UI\StudyCRUD.UI.csproj", "{20E4ED3B-99B4-4EB1-A273-E1E5BF39AE27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyCRUD.DAL", "StudyCRUD.DAL\StudyCRUD.DAL.csproj", "{5A63FCF7-2806-47C0-99F4-6FD617871ED0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20E4ED3B-99B4-4EB1-A273-E1E5BF39AE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E4ED3B-99B4-4EB1-A273-E1E5BF39AE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E4ED3B-99B4-4EB1-A273-E1E5BF39AE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E4ED3B-99B4-4EB1-A273-E1E5BF39AE27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A63FCF7-2806-47C0-99F4-6FD617871ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A63FCF7-2806-47C0-99F4-6FD617871ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A63FCF7-2806-47C0-99F4-6FD617871ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A63FCF7-2806-47C0-99F4-6FD617871ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC1974D2-F4D6-4ADF-99CD-785741B8C8E9}
+	EndGlobalSection
+EndGlobal
